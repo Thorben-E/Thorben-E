@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thorben Egberink</h1>
 <h3 align="center">A Full Stack Web developer</h3>
 
-- 🔭 I’m currently working on **Blog api**
+- 🔭 I’m currently working on **A freelance job**
 
 - 📫 How to reach me **thorbenegberink@gmail.com**
 
